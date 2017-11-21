@@ -23,6 +23,7 @@ To run a test network at localhost:9545 for deploying and migrating contracts to
   - Run network: `truffle develop`
   - Compile contracts: `compile`
   - Migrate contracts: `migrate` (add `--reset` flag after initial migration)
+  - Run tests: `test`
 
   - Note: When compiling, if you get a message saying something like `Incorrect number of arguments to Solidity function`, deleting your build folder and recompiling may fix it. (Seems to be a bug).
 
