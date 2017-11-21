@@ -72,5 +72,5 @@ To interact with contract:
 - ABI for contract can be attained using the [online compiler](https://remix.ethereum.org/)
   - details/interface-ABI => copy to clipboard
 
-
+// 15035fa41dec0dd40901654726769b473f295e5c
 
