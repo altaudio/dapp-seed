@@ -1,5 +1,6 @@
 .next
 node_modules
+build
 *.log
 static
 .DS_Store
